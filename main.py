@@ -8,7 +8,7 @@ from scoreboard import ScoreBoard
 
 screen = Screen()
 
-screen.setup(800, 700)
+screen.setup(700, 700)
 screen.bgcolor("black")
 screen.title("The Snake Game")
 
