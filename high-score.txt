@@ -1,1 +1,1 @@
-high_score = 0
+High_score = 0
